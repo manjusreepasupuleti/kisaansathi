@@ -1,0 +1,108 @@
+{
+  "farmers": [],
+  "staff": [],
+  "admins": [],
+  "procurement_centers": [
+    {
+      "id": "center-1",
+      "center_name": "Khanna Grain Mandi Center",
+      "location": "GT Road, Khanna Yard-1",
+      "district": "Ludhiana",
+      "state": "Punjab",
+      "daily_capacity": 3500,
+      "current_capacity": 0,
+      "status": "active",
+      "contact_phone": "+91 1628 224501",
+      "operating_hours": "07:30 AM - 07:00 PM",
+      "created_at": "2026-01-10T00:00:00.000Z"
+    },
+    {
+      "id": "center-2",
+      "center_name": "Karnal APMC Yard Center",
+      "location": "Sector 37, Grain Market",
+      "district": "Karnal",
+      "state": "Haryana",
+      "daily_capacity": 2200,
+      "current_capacity": 0,
+      "status": "active",
+      "contact_phone": "+91 184 2291040",
+      "operating_hours": "08:00 AM - 06:30 PM",
+      "created_at": "2026-01-12T00:00:00.000Z"
+    },
+    {
+      "id": "center-3",
+      "center_name": "Nizamabad APMC Market Yard",
+      "location": "Shivaji Chowk, Main Yard",
+      "district": "Nizamabad",
+      "state": "Telangana",
+      "daily_capacity": 1800,
+      "current_capacity": 0,
+      "status": "active",
+      "contact_phone": "+91 8462 230981",
+      "operating_hours": "08:00 AM - 06:00 PM",
+      "created_at": "2026-01-15T00:00:00.000Z"
+    }
+  ],
+  "crops": [
+    {
+      "id": "crop-1",
+      "crop_name": "Wheat (Gehun / Kanak)",
+      "crop_code": "WHEAT-FAQ",
+      "msp_price": 2275.0,
+      "max_moisture_limit": 12.0,
+      "moisture_deduction_rate": 25.0,
+      "season": "Rabi 2025-26",
+      "status": "open",
+      "variety": "PBW-343 / HD-2967 (FAQ Grade)"
+    },
+    {
+      "id": "crop-2",
+      "crop_name": "Paddy (Grade A Rice)",
+      "crop_code": "PADDY-GRDA",
+      "msp_price": 2320.0,
+      "max_moisture_limit": 17.0,
+      "moisture_deduction_rate": 30.0,
+      "season": "Kharif 2025-26",
+      "status": "open",
+      "variety": "PR-126 / Pusa Basmati Grade A"
+    },
+    {
+      "id": "crop-3",
+      "crop_name": "Mustard / Rapeseed (Sarson)",
+      "crop_code": "MUSTARD-FAQ",
+      "msp_price": 5650.0,
+      "max_moisture_limit": 8.0,
+      "moisture_deduction_rate": 45.0,
+      "season": "Rabi 2025-26",
+      "status": "open",
+      "variety": "Pusa Bold / RH-749"
+    },
+    {
+      "id": "crop-4",
+      "crop_name": "Maize (Makka / Corn)",
+      "crop_code": "MAIZE-FAQ",
+      "msp_price": 2090.0,
+      "max_moisture_limit": 14.0,
+      "moisture_deduction_rate": 20.0,
+      "season": "Kharif 2025-26",
+      "status": "open",
+      "variety": "HQPM-1 Hybrid"
+    },
+    {
+      "id": "crop-5",
+      "crop_name": "Gram / Chickpea (Chana)",
+      "crop_code": "CHANA-DESI",
+      "msp_price": 5440.0,
+      "max_moisture_limit": 10.0,
+      "moisture_deduction_rate": 40.0,
+      "season": "Rabi 2025-26",
+      "status": "open",
+      "variety": "Desi Chana (FAQ)"
+    }
+  ],
+  "tokens": [],
+  "weighing_records": [],
+  "quality_checks": [],
+  "payments": [],
+  "notifications": []
+}

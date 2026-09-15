@@ -1,0 +1,6 @@
+{
+  "name": "KisaanSathi",
+  "description": "Smart Farmer Procurement and Crop Tracking Platform designed to reduce farmer waiting time, provide slot booking, real-time crop status, transparent moisture checking, and DBT payment tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
